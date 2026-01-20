@@ -154,7 +154,8 @@ This project strengthened skills in:
 
 ![](https://github.com/Lucky-ogolo/Susan-s-Bar-Sales-Performance/blob/8916d7dc97087702fc82c2a85320684a5c80d901/SBAR.png)
 
-## 🤝 Let’s Connect
-  
-  - 💼 [LinkedIn](www.linkedin.com/in/lucky-ogolo/)
-  - 📧 [Email](luuckyyyy@gmail.com) 
+   ## 🤝 Let’s Connect
+   📬 Author 
+Ogolo lucky -  Data Analyst  
+  - 💼 🔗[LinkedIn](www.linkedin.com/in/lucky-ogolo/)
+  - 📧 🔗[Email](luuckyyyy@gmail.com) 
