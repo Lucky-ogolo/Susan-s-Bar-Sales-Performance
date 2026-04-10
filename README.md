@@ -6,6 +6,7 @@ This project analyzes **Susan’s Bar sales performance**, comparing business re
 The analysis focuses on **year-over-year (YoY) performance**, profitability, cost behavior, and sales distribution, supported by pivot tables and an interactive dashboard.
 
 ---
+![](https://github.com/Lucky-ogolo/Susan-s-Bar-Sales-Performance/blob/8916d7dc97087702fc82c2a85320684a5c80d901/SBAR.png)
 
 ## ❓ Problem Statement
 Susan’s Bar needed a clear comparison of sales performance between 2024 and 2025 to answer key business questions:
